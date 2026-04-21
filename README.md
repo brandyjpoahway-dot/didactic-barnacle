@@ -61,6 +61,6 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 
 ## Contact
 
-Your Name - your_email@example.com
+Brandy J Poahway - brandyjpoahway@gmail.com
 
 Project Link: [https://github.com/brandyjpoahway-dot/didactic-barnacle](https://github.com/brandyjpoahway-dot/didactic-barnacle)
